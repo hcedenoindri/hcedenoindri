@@ -1,7 +1,7 @@
 Hello, nice to meet you!
 
-- 🔭 I’m currently working on a wed-based videogame using ReactJS, and the Google Maps API.
-- 🌱 I’m currently learning AI, ML, and Software Engineering Methologies.
+- 🔭 I’m currently working on the Relational Database certification from freeCodeCamp.
+- 🌱 I’m currently learning PostgreSQL and advanced Bash scripting.
 - 📫 How to reach me: hcedenoindriago@gmail.com
 - ⚡ Fun fact: I am a handyman, musician, and car enthusiast.
 
